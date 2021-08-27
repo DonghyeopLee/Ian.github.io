@@ -1,3 +1,5 @@
+title: Welcome to the Ian’s homepage!
+description: feel free to bookmark this to keep an eye on my project updayes
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DonghyeopLee/Ian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
